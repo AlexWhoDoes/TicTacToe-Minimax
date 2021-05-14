@@ -10,6 +10,6 @@ The user should input coordinates of the space of a board to put his token (X or
 
 Coordinats of the board are:
 
-13 23 33
-12 22 32
-11 21 31
+- 13 23 33
+- 12 22 32
+- 11 21 31
